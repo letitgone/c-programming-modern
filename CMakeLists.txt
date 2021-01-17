@@ -13,3 +13,7 @@ add_executable(expands basis/expands.c)
 add_executable(dweight3 basis/dweight3.c)
 add_executable(initialization basis/initialization.c)
 add_executable(printAsterisk basis/printAsterisk.c)
+
+add_executable(tprintf printf/tprintf.c)
+
+add_executable(addfrac printf/addfrac.c)
