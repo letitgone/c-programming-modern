@@ -17,3 +17,7 @@ add_executable(printAsterisk basis/printAsterisk.c)
 add_executable(tprintf printf/tprintf.c)
 
 add_executable(addfrac printf/addfrac.c)
+
+add_executable(upc operator/upc.c)
+
+add_executable(broker selection/broker.c)
