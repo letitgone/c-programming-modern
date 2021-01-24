@@ -29,3 +29,11 @@ add_executable(square loop/square.c)
 add_executable(sum loop/sum.c)
 
 add_executable(numdigit loop/numdigit.c)
+
+add_executable(square2 loop/square2.c)
+
+add_executable(square3 loop/square3.c)
+
+add_executable(checking loop/checking.c)
+
+add_executable(sum2 type/sum2.c)
