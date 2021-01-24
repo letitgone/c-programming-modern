@@ -21,3 +21,11 @@ add_executable(addfrac printf/addfrac.c)
 add_executable(upc operator/upc.c)
 
 add_executable(broker selection/broker.c)
+
+add_executable(date selection/date.c)
+
+add_executable(square loop/square.c)
+
+add_executable(sum loop/sum.c)
+
+add_executable(numdigit loop/numdigit.c)
