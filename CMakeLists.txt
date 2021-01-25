@@ -37,3 +37,7 @@ add_executable(square3 loop/square3.c)
 add_executable(checking loop/checking.c)
 
 add_executable(sum2 type/sum2.c)
+
+add_executable(length type/length.c)
+
+add_executable(length2 type/length2.c)
