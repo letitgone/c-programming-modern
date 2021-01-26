@@ -41,3 +41,13 @@ add_executable(sum2 type/sum2.c)
 add_executable(length type/length.c)
 
 add_executable(length2 type/length2.c)
+
+add_executable(reverse array/reverse.c)
+
+add_executable(repdigit array/repdigit.c)
+
+add_executable(interest array/interest.c)
+
+add_executable(deal array/deal.c)
+
+add_executable(reverse2 array/reverse2.c)
