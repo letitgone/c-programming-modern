@@ -51,3 +51,11 @@ add_executable(interest array/interest.c)
 add_executable(deal array/deal.c)
 
 add_executable(reverse2 array/reverse2.c)
+
+add_executable(average function/average.c)
+
+add_executable(countdown function/countdown.c)
+
+add_executable(pun2 function/pun2.c)
+
+add_executable(prime function/prime.c)
